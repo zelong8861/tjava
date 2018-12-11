@@ -12,7 +12,7 @@ public class OuterClass {
         }
     }
 
-    public InnerClass getInnerClass() {
+    private InnerClass getInnerClass() {
         return new InnerClass();
     }
 
