@@ -48,6 +48,8 @@ public class c01 {
         return true;
     }
 
+    private static void testMerge () {
+    }
 
     public static void main(String[] args) {
        // testTrueFalse();
